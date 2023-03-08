@@ -9,4 +9,5 @@ Associando o GitHub no Visual Studio Code (https://www.youtube.com/watch?v=peGUk
 
 ## Abrir branch específico em uma instância do [binderhub](https://github.com/jupyterhub/binderhub)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bellincanta/INT-POO2023/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bellincanta/2023INT-POO/HEAD)
+
