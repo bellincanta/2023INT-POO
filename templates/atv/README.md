@@ -7,28 +7,24 @@ A seguir é apresentada a estrutura de pastas esperada para entrega de laborató
 ~~~
 ├── README.md  <- apresentação do aluno
 │
-├── Atv01      <- atividade 01
+├── AtvTeste      <- atividade teste
 │
-├── Atv02      <- atividade 02
+├── Atv01      <- atividade 02
 │
-├── Atv03      <- atividade 03
+├── Atv02      <- atividade 03
 │
-├── Atv04      <- atividade 04
+├── Atv03      <- atividade 04
 │
-├── Atv05      <- atividade 05
+├── Atv04      <- atividade 05
 │
-└── Atv06      <- atividade 06
+└── Atv05      <- atividade 06
 ~~~
 
-Na raiz deve haver um arquivo com o nome `README.md` contendo a apresentação do aluno.
+Na raiz do repositório que você criou para a disciplina deve haver um arquivo com o nome `README.md` contendo a apresentação do aluno, bem como o link para o `notebook` da atividade.
 
-## `AtvXX`
+# Modelo para Apresentação do Aluno
 
-Arquivos e diretórios referentes à entrega de uma atividade específica. Cada diretório terá sua configuração detalhada abaixo.
-
-# Modelo para Apresentação do Aluno e Atividades
-
-Segue abaixo o modelo de como devem ser documentadas as entregas.
+Segue abaixo o modelo do arquivo README.md.
 
 <hr>
 
@@ -42,19 +38,9 @@ Segue abaixo o modelo de como devem ser documentadas as entregas.
 
 <hr>
 
-# Atv01 - Primeiro Programa em Java
+## Notebook Teste - AtvTeste
 
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a atividade
-│
-└── notebook   <- arquivos do notebook
-~~~
-
-## Notebook 1 - Atividade 01
-
-> Coloque um link para o arquivo do notebook com a resolução da atividade 01. Ele estará dentro da pasta `notebook`.
+> Coloque um link para o arquivo do notebook com a resolução da atividade teste. Ela estará dentro da pasta `notebook`.
 
 
 

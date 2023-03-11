@@ -28,5 +28,5 @@ Tudo o que for indicado entre `<...>` indica algo que deve ser substituído pelo
 
 > Tudo o que aparecer neste modo de citação se refere algo que deve ser substituído pelo indicado. Tal como na situação anterior, você também não usará o modo de citação quando fizer a substituição.
 
-No modelo também são colocados exemplos ilustrativos, que serão substituídos pelos do seu trabalho.
+
 
