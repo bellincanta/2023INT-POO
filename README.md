@@ -11,4 +11,4 @@ Associando o GitHub no Visual Studio Code (https://www.youtube.com/watch?v=peGUk
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bellincanta/2023INT-POO/HEAD)
 
-[![Binder] (https://hub.gke2.mybinder.org/user/bellincanta-2023int-poo-duxbrh89/lab/tree/Atividades/AtvTeste/notebook)
+
